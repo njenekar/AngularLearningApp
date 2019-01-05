@@ -1,13 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
 table{
-    color: gray;
+    color: rgb(54, 6, 6);
     font-family: Arial, Helvetica, sans-serif;
-    font-size: large;
+    font-size: small;
     border-collapse: collapse;
 }
 td{
     border: 1px solid black;
+    padding: 2px;
 }
 th{
     border: 1px solid black;
+    padding: 5px;
+    color: whitesmoke;
+    background-color: rgb(156, 134, 6);
 }
